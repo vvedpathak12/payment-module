@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.btn-1{
+ padding: 12px 60px;
+}
+
+
+#pay-sec{
+    border: 1px solid black;
+    padding: 50px;
+    
+}
+
+form h6{
+    font-size: 13px;
+}
